@@ -1,9 +1,15 @@
-![Open Source Society logo](https://camo.githubusercontent.com/59e7dd8486d5cb6facd776f0f96395be6f41cc5a/687474703a2f2f692e696d6775722e636f6d2f476a456267494a2e706e67)
+![Open Source Society logo](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
-  <a href="https://github.com/open-source-society/data-science"><img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg"></a>
+  <br><br>
+  <a href="https://github.com/open-source-society/data-science">
+    <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
+  </a>
+  <a href="https://www.patreon.com/ossu">
+	  <img alt="Contribute with OSSU on Patreon" src="https://img.shields.io/badge/Patreon-contribute-yellow.svg">
+  </a>
 </p>
 
 
@@ -16,6 +22,7 @@
 - [How to use this guide](#how-to-use-this-guide)
 - [Prerequisite](#prerequisite)
 - [How to collaborate](#how-to-collaborate)
+- [Code of conduct](#code-of-conduct)
 - [Community](#community)
 - [Next Goals](#next-goals)
 - [Team](#team)
@@ -61,11 +68,12 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Single Variable Calculus](#single-variable-calculus)
 - [Multivariable Calculus](#multivariable-calculus)
 - [Python](#python)
-- [Probability and Statistics with R](#probability-and-statistics-with-r)
+- [Probability and Statistics](#probability-and-statistics)
 - [Introduction to Data Science](#introduction-to-data-science)
 - [Machine Learning](#machine-learning)
 - [Project](#project)
 - [Convex Optimization](#convex-optimization)
+- [Data Wrangling](#data-wrangling)
 - [Big Data](#big-data)
 - [Database](#database)
 - [Deep Learning](#deep-learning)
@@ -104,7 +112,7 @@ Courses | Duration | Effort
 [Introduction to Python for Data Science](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 weeks | 2-4 hours/week
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week
 
-### Probability and Statistics with R
+### Probability and Statistics
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)| 16 weeks | 12 hours/week
@@ -123,7 +131,7 @@ Courses | Duration | Effort
 ### Machine Learning
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)| 10 weeks | 10-20 hours/week
+[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)    [[caltech]](http://work.caltech.edu/lectures.html) | 10 weeks | 10-20 hours/week
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
 [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
 
@@ -135,6 +143,11 @@ Complete Kaggle's Getting Started and Playground Competitions
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| 9 weeks | 10 hours/week
+
+### Data Wrangling
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)| 8 weeks | 10 hours/week
 
 ### Big Data
 Courses | Duration | Effort
@@ -150,7 +163,7 @@ Courses | Duration | Effort
 ### Natural Language Processing
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
+[Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)| - weeks | - hours/week
 
 ### Deep Learning
 Courses | Duration | Effort
@@ -201,7 +214,7 @@ In order to show for everyone that you **successfully** finished a course, you s
 
 After finish a course, you should think about a **real world problem** that you can solve using the acquired knowledge in the course. You don't need to create a big project, but you must create something to **validate** and **consolidate** your knowledge, and also to show to the world that you are capable to create something useful with the concepts that you learned.
 
-The projects of all students will be listed in [this](https://github.com/open-source-society/help/blob/master/PROJECTS.md) file. Submit your project's information in that file after you conclude it.
+The projects of all students will be listed in [this](https://github.com/open-source-society/data-science/blob/master/PROJECTS.md) file. Submit your project's information in that file after you conclude it.
 
 **You can create this project alone or with other students!**
 
@@ -274,19 +287,22 @@ The **extras** section is a place where all of us will be able to submit interes
 
 **Let's do it together! =)**
 
+## Code of Conduct
+[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+
 ## Community
 
-Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)!
+Subscribe to our [newsletter](https://tinyletter.com/ossu).
 
-Join us in our [group](https://groups.google.com/forum/#!forum/open-source-society-university)!
+Use our [forum](https://github.com/ossu/forum) if you need some help.
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
 We also have a chat room! [![Gitter](https://badges.gitter.im/open-source-society/data-science.svg)](https://gitter.im/open-source-society/data-science)
 
-Add **Open Source Society University** to your [Facebook](https://www.facebook.com/ossuniversity) profile!
+Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
 
-> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our subreddit/group for important discussions**.
+> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our forum for important discussions**.
 
 ## Next Goals
 
